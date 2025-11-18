@@ -5,7 +5,7 @@ const projects = [
         id: 1,
         title: "Card Game Services",
         description: "A card game service using C++ for backend logic and React and Tailwind CSS for frontend.",
-        image: "/images/card-game-image.jpeg",
+        image: "public/images/card-game-image.jpeg",
         tags: ["React", "TailwindCSS", "C++", "OAT++"],
         demoUrl: "#",
         githubUrl: "#",
