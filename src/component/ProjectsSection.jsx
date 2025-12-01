@@ -8,7 +8,7 @@ const projects = [
         image: "/images/card-game-image.jpeg",
         tags: ["React", "TailwindCSS", "C++", "OAT++"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/yugoo90/card_games",
     }
 ];
 
