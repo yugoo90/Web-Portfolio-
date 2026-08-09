@@ -6,9 +6,18 @@ const projects = [
         title: "Card Game Services",
         description: "A card game service using C++ for backend logic and React and Tailwind CSS for frontend.",
         image: "/images/card-game-image.jpeg",
-        tags: ["React", "TailwindCSS", "C++", "OAT++"],
+        tags: ["C++", "HTML", "TailwindCSS", "React", "OAT++"],
         demoUrl: "#",
         githubUrl: "https://github.com/yugoo90/card_games",
+    },
+    {
+        id: 2, 
+        title: "Vehicle Image Classification",
+        description: "A vehicle image classification service using Python and data mining techniques.",
+        image: "/images/vehicle-image-classification-image.jpg",
+        tags: ["Pyhton", "HTML", "TailwindCSS", "React"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/yugoo90/Vehicle-Image-Classification",
     }
 ];
 
